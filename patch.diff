@@ -1,0 +1,20 @@
+From 4517b99af0962d04edffe03b6186c803e739cb8a Mon Sep 17 00:00:00 2001
+From: Jibom19 <40171048+Jibom19@users.noreply.github.com>
+Date: Mon, 11 Jun 2018 23:14:52 +0900
+Subject: [PATCH] Create new
+
+---
+ new | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 new
+
+diff --git a/new b/new
+new file mode 100644
+index 0000000..ce01362
+--- /dev/null
++++ b/new
+@@ -0,0 +1 @@
++hello
+-- 
+2.17.1.windows.2
+
